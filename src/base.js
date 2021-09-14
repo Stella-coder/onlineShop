@@ -3,11 +3,11 @@ import "firebase/firestore";
 import "firebase/firestore";
 
 const app = firebase.initializeApp({
-  apiKey: "AIzaSyAXpDHXAFsBhbnLk-jfc498p6wfjxc4_iQ",
-  authDomain: "mytodoapp-63c1b.firebaseapp.com",
-  projectId: "mytodoapp-63c1b",
-  storageBucket: "mytodoapp-63c1b.appspot.com",
-  messagingSenderId: "164817259421",
-  appId: "1:164817259421:web:390429d99a0f7a1afd3d74",
+  apiKey: "AIzaSyAfWIQMxr-CRpt93lXRWcSlqYO8q-47Yoc",
+  authDomain: "shopstore-29777.firebaseapp.com",
+  projectId: "shopstore-29777",
+  storageBucket: "shopstore-29777.appspot.com",
+  messagingSenderId: "631464329540",
+  appId: "1:631464329540:web:fc2c7ed82c9f81cf7dd711"
 });
 export default app;
